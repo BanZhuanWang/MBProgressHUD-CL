@@ -1,0 +1,1 @@
+you can use class ASAnimationView to use it 
